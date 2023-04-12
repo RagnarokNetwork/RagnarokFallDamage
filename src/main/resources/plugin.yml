@@ -1,0 +1,6 @@
+name: RagnarokFallDamage
+version: '${project.version}'
+main: net.ragnaroknetwork.ragnarokfalldamage.RagnarokFallDamage
+api-version: 1.8.8
+authors: [ Bloedarend ]
+description: Fix damage for sharpness
